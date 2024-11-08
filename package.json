@@ -1,0 +1,23 @@
+{
+  "name": "smart_edu",
+  "version": "1.0.0",
+  "description": "Education Portal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/app.js"
+  },
+  "keywords": [
+    "Education",
+    "Portal",
+    "Node.js"
+  ],
+  "author": "Faruk Kandemir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
